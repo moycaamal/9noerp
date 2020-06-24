@@ -1,0 +1,4 @@
+{
+  "minLength": "No cumple con la longitud necesaria",
+  "pattern": "No incluir número ni caracteres especiales"
+}
